@@ -1,0 +1,31 @@
+<!-- templates/records/record_list.html -->
+<table>
+    <thead>
+        <tr>
+            <th><a href="?sort=name&order={{ 'desc' if request.GET.sort == 'name' and request.GET.order == 'asc' else 'asc' }}">Name</a></th>
+            <th><a href="?sort=created_at&order={{ 'desc' if request.GET.sort == 'created_at' and request.GET.order == 'asc' else 'asc' }}">Created At</a></th>
+            <th><a href="?sort=value&order={{ 'desc' if request.GET.sort == 'value' and request.GET.order == 'asc' else 'asc' }}">Value</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for record in records %}
+        <tr>
+            <td>{{ record.name }}</td>
+            <td>{{ record.created_at }}</td>
+            <td>{{ record.value }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<div>
+    {% if is_paginated %}
+        <span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span>
+        {% if page_obj.has_previous %}
+            <a href="?page={{ page_obj.previous_page_number }}">Previous</a>
+        {% endif %}
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}">Next</a>
+        {% endif %}
+    {% endif %}
+</div>
