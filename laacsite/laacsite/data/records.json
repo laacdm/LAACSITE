@@ -370,8 +370,19 @@
         "date": "2021-02-01",
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
-        "description": "Implement a complete RL solution to a problem. This capstone let you see how each component---problem formulation, algorithm selection, parameter selection and representation design---fits together into a complete solution, and how to make appropriate choices when deploying RL in the real world. The project requires to implement both the environment to stimulate the problem, and a control agent with Neural Network function approximation. In addition, had conduct a scientific study of the learning system to develop the ability to assess the robustness of RL agents. Appropriately formalize the problem as an MDP, select appropriate algorithms, identify what choices in your implementation will have large impacts on performance and validate the expected behaviour of your algorithms.",
+        "description": "Implement a complete RL solution to a problem. This capstone let you see how each component---problem formulation, algorithm selection, parameter selection and representation design---fits together into a complete solution, and how to make appropriate choices when deploying RL in the real world. The project requires to implement both the environment to stimulate the problem, and a control agent with Neural Network function approximation. In addition, had to conduct a scientific study of the learning system to develop the ability to assess the robustness of RL agents. Appropriately formalize the problem as an MDP, select appropriate algorithms, identify what choices in your implementation will have large impacts on performance and validate the expected behaviour of your algorithms.",
         "image_id": "IMG0034"
+    },
+    {
+        "name": "Reinforcement Learning",
+        "type_of_document": "Certification",
+        "institution": "University of Alberta",
+        "specialization": "Yes",
+        "date": "2021-02-01",
+        "paid": "Recieved Financial Aid",
+        "provider": "Coursera",
+        "description": "Build a Reinforcement Learning system for sequential decision making. Understand the space of RL algorithms (Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradients, Dyna, and more). Understand how to formalize your task as a Reinforcement Learning problem, and how to begin implementing a solution. Understand how RL fits under the broader umbrella of machine learning, and how it complements deep learning, supervised and unsupervised learning.",
+        "image_id": "IMG0035"
     },
     {
         "name": "The Data Scientist Toolbox",
@@ -382,7 +393,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Set up R, R-Studio, Github and other useful tools. Understand the data, problems, and tools that data analysts use. Explain essential study design concepts. Create a Github repository",
-        "image_id": "IMG0035"
+        "image_id": "IMG0036"
     },
     {
         "name": "R Programming",
@@ -393,7 +404,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Understand critical programming language concepts. Configure statistical programming software. Make use of R loop functions and debugging tools. Collect detailed information using R profiler.",
-        "image_id": "IMG0036"
+        "image_id": "IMG0037"
     },
     {
         "name": "Getting and Cleaning Data",
@@ -404,7 +415,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Understand common data storage systems. Apply data cleaning basics to make data tidy. Use R for text and date manipulation. Obtain usable data from the web, APIs, and databases.",
-        "image_id": "IMG0037"
+        "image_id": "IMG0038"
     },
     {
         "name": "Exploratory Data Analysis",
@@ -415,7 +426,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Understand analytic graphics and the base plotting system in R. Use advanced graphing systems such as the Lattice system. Make graphical displays of very high dimensional data. Apply cluster analysis techniques to locate patterns in data.",
-        "image_id": "IMG0038"
+        "image_id": "IMG0039"
     },
     {
         "name": "Reproducible Research",
@@ -426,7 +437,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Organize data analysis to help make it more reproducible. Write up a reproducible data analysis using knitr. Determine the reproducibility of analysis project. Publish reproducible web documents using Markdown.",
-        "image_id": "IMG0039"
+        "image_id": "IMG0040"
     },
     {
         "name": "Statistical Inference",
@@ -437,7 +448,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Understand the process of drawing conclusions about populations or scientific truths from data. Describe variability, distributions, limits, and confidence intervals. Use p-values, confidence intervals, and permutation tests. Make informed data analysis decisions.",
-        "image_id": "IMG0040"
+        "image_id": "IMG0041"
     },
     {
         "name": "Regression Models",
@@ -448,7 +459,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Use regression analysis, least squares and inference. Understand ANOVA and ANCOVA model cases. Investigate analysis of residuals and variability. Describe novel uses of regression models such as scatterplot smoothing.",
-        "image_id": "IMG0041"
+        "image_id": "IMG0042"
     },
     {
         "name": "Practical Machine Learning",
@@ -459,7 +470,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Use the basic components of building and applying prediction functions. Understand concepts such as training and tests sets, overfitting, and error rates. Describe machine learning methods such as regression or classification trees. Explain the complete process of building prediction functions.",
-        "image_id": "IMG0042"
+        "image_id": "IMG0043"
     },
     {
         "name": "Developing Data Products",
@@ -470,7 +481,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Develop basic applications and interactive graphics using GoogleVis. Use Leaflet to create interactive annotated maps. Build an R Markdown presentation that includes a data visualization. Create a data product that tells a story to a mass audience.",
-        "image_id": "IMG0043"
+        "image_id": "IMG0044"
     },
     {
         "name": "Data Science Capstone",
@@ -481,7 +492,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Create a useful data product for the public. Apply your exploratory data analysis skills. Build an efficient and accurate prediction model. Produce a presentation deck to showcase your findings.",
-        "image_id": "IMG0044"
+        "image_id": "IMG0045"
     },
     {
         "name": "Data Science Specialization",
@@ -492,7 +503,7 @@
         "paid": "Yes",
         "provider": "Coursera",
         "description": "Use R to clean, analyze, and visualize data. Navigate the entire data science pipeline from data acquisition to publication. Use GitHub to manage data science projects. Perform regression analysis, least squares and inference using regression models.",
-        "image_id": "IMG0045"
+        "image_id": "IMG0046"
     },
     {
         "name": "Object Oriented Programming in Java",
@@ -503,7 +514,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Learn the fundamentals of Object Oriented Programming, how to leverage the power of existing libraries, how to build graphical user interfaces, and how to use some core algorithms for searching and sorting data.",
-        "image_id": "IMG0046"
+        "image_id": "IMG0047"
     },
     {
         "name": "Data Structures and Performance",
@@ -514,7 +525,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Use and analyze data structures that are used in industry-level applications, such as linked lists, trees, and hashtables. Explain how these data structures make programs more efficient and flexible. Apply asymptotic Big-O analysis to describe the performance of algorithms and evaluate which strategy to use for efficient data retrieval, addition of new data, deletion of elements, and/or memory usage.",
-        "image_id": "IMG0047"
+        "image_id": "IMG0048"
     },
     {
         "name": "Advanced Data Structures in Java",
@@ -525,7 +536,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Learn to represent the key pieces of data in a complex data structure. Learn about data structures, like graphs, that are fundamental for working with structured real world data. Develop, implement, and analyze algorithms for working with this data to solve real world problems. Examine what makes for good code and class hierarchy design so that not only correct code is writen, but also it is sharable with other people and maintainable in the future.",
-        "image_id": "IMG0048"
+        "image_id": "IMG0049"
     },
     {
         "name": "Custom Models, Layers, and Loss Functions with TensorFlow",
@@ -536,17 +547,6 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Compare Functional and Sequential APIs, discover new models you can build with the Functional API, and build a model that produces multiple outputs including a Siamese network. Build custom loss functions (including the contrastive loss function used in a Siamese network) in order to measure how well a model is doing and help your neural network learn from training data. Build off of existing standard layers to create custom layers for your models, customize a network layer with a lambda layer, understand the differences between them, learn what makes up a custom layer, and explore activation functions. Build off of existing models to add custom functionality, learn how to define your own custom class instead of using the Functional or Sequential APIs, build models that can be inherited from the TensorFlow Model class, and build a residual network (ResNet) through defining a custom model class.",
-        "image_id": "IMG0049"
-    },
-    {
-        "name": "Custom and Distributed Training with TensorFlow",
-        "type_of_document": "Certification",
-        "institution": "DeepLearnig.AI",
-        "specialization": "No",
-        "date": "2021-12-01",
-        "paid": "Recieved Financial Aid",
-        "provider": "Coursera",
-        "description": "Learn about Tensor objects, the fundamental building blocks of TensorFlow, understand the difference between the eager and graph modes in TensorFlow, and learn how to use a TensorFlow tool to calculate gradients. Build your own custom training loops using GradientTape and TensorFlow Datasets to gain more flexibility and visibility with your model training. Learn about the benefits of generating code that runs in graph mode, take a peek at what graph code looks like, and practice generating this more efficient code automatically with TensorFlow tools. Harness the power of distributed training to process more data and train larger models, faster, get an overview of various distributed training strategies, and practice working with a strategy that trains on multiple GPU cores, and another that trains on multiple TPU cores.",
         "image_id": "IMG0050"
     },
     {
@@ -557,8 +557,19 @@
         "date": "2021-12-01",
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
-        "description": "Explore image classification, image segmentation, object localization, and object detection. Apply transfer learning to object localization and detection. Apply object detection models such as regional-CNN and ResNet-50, customize existing models, and build your own models to detect, localize, and label your own rubber duck images. Implement image segmentation using variations of the fully convolutional network (FCN) including U-Net and d) Mask-RCNN to identify and detect numbers, pets, zombies, and more. Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.",
+        "description": "Learn about Tensor objects, the fundamental building blocks of TensorFlow, understand the difference between the eager and graph modes in TensorFlow, and learn how to use a TensorFlow tool to calculate gradients. Build your own custom training loops using GradientTape and TensorFlow Datasets to gain more flexibility and visibility with your model training. Learn about the benefits of generating code that runs in graph mode, take a peek at what graph code looks like, and practice generating this more efficient code automatically with TensorFlow tools. Harness the power of distributed training to process more data and train larger models, faster, get an overview of various distributed training strategies, and practice working with a strategy that trains on multiple GPU cores, and another that trains on multiple TPU cores.",
         "image_id": "IMG0051"
+    },
+    {
+        "name": "Advanced Computer Vision with TensorFlow",
+        "type_of_document": "Certification",
+        "institution": "DeepLearnig.AI",
+        "specialization": "No",
+        "date": "2021-12-01",
+        "paid": "Recieved Financial Aid",
+        "provider": "Coursera",
+        "description": "Explore image classification, image segmentation, object localization, and object detection. Apply transfer learning to object localization and detection. Apply object detection models such as regional-CNN and ResNet-50, customize existing models, and build your own models to detect, localize, and label your own rubber duck images. Implement image segmentation using variations of the fully convolutional network (FCN) including U-Net and d) Mask-RCNN to identify and detect numbers, pets, zombies, and more. Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.",
+        "image_id": "IMG0052"
     },
     {
         "name": "Generative Deep Learning with TensorFlow",
@@ -569,7 +580,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Learn neural style transfer using transfer learning: extract the content of an image (eg. swan), and the style of a painting (eg. cubist or impressionist), and combine the content and style into a new image. Build simple AutoEncoders on the familiar MNIST dataset, and more complex deep and convolutional architectures on the Fashion MNIST dataset, understand the difference in results of the DNN and CNN AutoEncoder models, identify ways to de-noise noisy images, and build a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one. Explore Variational AutoEncoders (VAEs) to generate entirely new data, and generate anime faces to compare them against reference images. Learn about GANs; their invention, properties, architecture, and how they vary from VAEs, understand the function of the generator and the discriminator within the model, the concept of 2 training phases and the role of introduced noise, and build your own GAN that can generate faces.",
-        "image_id": "IMG0052"
+        "image_id": "IMG0053"
     },
     {
         "name": "TensorFlow: Advanced Techniques",
@@ -580,7 +591,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Understand the underlying basis of the Functional API and build exotic non-sequential model types, custom loss functions, and layers. Learn optimization and how to use GradientTape & Autograph, optimize training in different environments with multiple processors and chip types. Practice object detection, image segmentation, and visual interpretation of convolutions. Explore generative deep learning, and how AIs can create new content, from Style Transfer through Auto Encoding and VAEs to GANs.",
-        "image_id": "IMG0053"
+        "image_id": "IMG0054"
     },
     {
         "name": "Database Design and Basic SQL in PostgreSQL",
@@ -591,7 +602,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Utilize psql and SQL commands to implement CRUD (Create, Read, Update, and Delete) operations for tables in a PostgreSQL database. Identify and utilize the functions of primary, logical, and foreign keys within a database. Build and differentiate between one-to-many and many-to-many relationships within PostgreSQL. Recall key people, organizations, and innovations that were instrumental to building the SQL standard.",
-        "image_id": "IMG0054"
+        "image_id": "IMG0055"
     },
     {
         "name": "Intermediate PostgreSQL",
@@ -602,7 +613,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Utilize SQL commands for editing tables in a PostgreSQL database and produce properly normalized tables from CSV files. Appropriately handle text and dates in databases and create stored procedures. Identify hashtag algorithm and their attributes. Construct regular expressions to select rows that match a pattern.",
-        "image_id": "IMG0055"
+        "image_id": "IMG0056"
     },
     {
         "name": "JSON and Natural Language Processing in PostgreSQL",
@@ -613,7 +624,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Compare Python, PostgreSQL, and JSON. Index and retrieve natural language text and JSON data; access API data and store it in a database.Create a GIN-based text reverse index and ts_vector index; build a search engine in PostgreSQL.",
-        "image_id": "IMG0056"
+        "image_id": "IMG0057"
     },
     {
         "name": "Database Architecture, Scale, and NoSQL with Elasticsearch",
@@ -624,7 +635,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Understand PostgreSQL architecture; analyze and compare SQL and NoSQL. Compare and contrast ACID and BASE style architectures and databases. Create and utilize an Elasticsearch index in different contexts",
-        "image_id": "IMG0057"
+        "image_id": "IMG0058"
     },
     {
         "name": "PostgreSQL for Everybody",
@@ -635,7 +646,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "How to use the PostgreSQL database effectively. Explore database design principles. Dive into database architecture and deployment strategies.Compare and contrast SQL and NoSQL database design approaches and acquire skills applicable to data mining and application development.",
-        "image_id": "IMG0058"
+        "image_id": "IMG0059"
     },
     {
         "name": "Machine Learning in Production",
@@ -646,7 +657,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Identify key components of the ML project lifecycle, pipeline & select the best deployment & monitoring patterns for different production scenarios. Optimize model performance and metrics by prioritizing disproportionately important examples that represent key slices of a dataset. Solve production challenges regarding structured, unstructured, small, and big data, how label consistency is essential, and how you can improve it.",
-        "image_id": "IMG0059"
+        "image_id": "IMG0060"
     },
     {
         "name": "Machine Learning Data Lifecycle in Production",
@@ -657,7 +668,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Identify responsible data collection for building a fair ML production system. Implement feature engineering, transformation, and selection with TensorFlow Extended. Understand the data journey over a production system lifecycle and leverage ML metadata and enterprise schemas to address quickly evolving data.",
-        "image_id": "IMG0060"
+        "image_id": "IMG0061"
     },
     {
         "name": "Machine Learning Modeling Pipelines in Production",
@@ -668,7 +679,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Apply techniques to manage modeling resources and best serve batch and real-time inference requests. Use analytics to address model fairness, explainability issues, and mitigate bottlenecks.",
-        "image_id": "IMG0061"
+        "image_id": "IMG0062"
     },
     {
         "name": "Deploying Machine Learning Models in Production",
@@ -679,7 +690,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Learn how to deploy ML models and make them available to end-users. Build scalable and reliable hardware infrastructure to deliver inference requests both in real-time and batch depending on the use case. Implement workflow automation and progressive delivery that complies with current MLOps practices to keep a production system running. Continuously monitor your system to detect model decay, remediate performance drops, and avoid system failures so it can continuously operate at all times.",
-        "image_id": "IMG0062"
+        "image_id": "IMG0063"
     },
     {
         "name": "Machine Learning Engineering for Production (MLOps)",
@@ -690,7 +701,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment requirements. Establish a model baseline, address concept drift, and prototype how to develop, deploy, and continuously improve a productionized ML application. Build data pipelines by gathering, cleaning, and validating datasets. Establish data lifecycle by using data lineage and provenance metadata tools. Apply best practices and progressive delivery techniques to maintain and monitor a continuously operating production system.",
-        "image_id": "IMG0063"
+        "image_id": "IMG0064"
     },
     {
         "name": "Web Application Technologies and Django",
@@ -701,7 +712,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Explain the basics of HTTP and how the request-response cycle works. Install and deploy a simple DJango application. Build simple web pages in HTML and style them using CSS. Explain the basic operations in SQL.",
-        "image_id": "IMG0064"
+        "image_id": "IMG0065"
     },
     {
         "name": "Building Web Applications in Django",
@@ -712,7 +723,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Describe and build a data model in Django. Apply Django model query and template tags/code of Django Template Language (DTL). Define Class, Instance, Method. Build forms in HTML.",
-        "image_id": "IMG0065"
+        "image_id": "IMG0066"
     },
     {
         "name": "Django Features and Libraries",
@@ -723,7 +734,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Define Django sessions and how cookies are used to support sessions. Apply built-in login functionality in Django and manage login users in views. Define one-to-many models and demonstrate how to represent links in a database. Create, edit, and delete form flow inside of a generic edit view.",
-        "image_id": "IMG0066"
+        "image_id": "IMG0067"
     },
     {
         "name": "Using JavaScript and JSON in Django",
@@ -734,7 +745,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Explain and give examples of many-to-many relationships in data modeling. Write syntactically correct JavaScript language and demonstrate debugging capabilities. Build objects using JavaScript. Explain basic elements of low-level jQuery.",
-        "image_id": "IMG0067"
+        "image_id": "IMG0068"
     },
     {
         "name": "Django for Everybody",
@@ -745,7 +756,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Install and deploy a  Django application; build HTML web pages styled by CSS. Describe and build a data model in Django, applying model query and template tags/code of Django Template Language. Apply built-in login functionality in Django; define sessions, cookies, and one-to-many models. Build objects and write syntactically correct JavaScript language; explain basic elements of low-level jQuery.",
-        "image_id": "IMG0068"
+        "image_id": "IMG0069"
     },
     {
         "name": "Guided Tour of Machine Learning in Finance",
@@ -756,7 +767,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Introductory and broad overview of the field of ML with the focus on applications on Finance. Supervised Machine Learning methods are used in the capstone project to predict bank closures.",
-        "image_id": "IMG0069"
+        "image_id": "IMG0070"
     },
     {
         "name": "Fundamentals of Machine Learning in Finance",
@@ -767,7 +778,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Solve practical ML-amenable problems that they may encounter in real life that include: Understanding where the problem one faces lands on a general landscape of available ML methods. Understanding which particular ML approach(es) would be most appropriate for resolving the problem. The ability to successfully implement a solution, and assess its performance.",
-        "image_id": "IMG0070"
+        "image_id": "IMG0071"
     },
     {
         "name": "Reinforcement Learning in Finance",
@@ -778,7 +789,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Use reinforcement learning to solve classical problems of Finance such as portfolio optimization, optimal trading, and option pricing and risk management. Practice on valuable examples such as famous Q-learning using financial problems. Apply knowledge acquired in the course to a simple model for market dynamics that is obtained using reinforcement learning as the course project.",
-        "image_id": "IMG0071"
+        "image_id": "IMG0072"
     },
     {
         "name": "Overview of Advanced Methods of Reinforcement Learning in Finance",
@@ -789,7 +800,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Links between Reinforcement Learning, option pricing and physics, implications of Inverse Reinforcement Learning for modeling market impact and price dynamics, and perception-action cycles in Reinforcement Learning. Overview trends and potential applications of Reinforcement Learning for high-frequency trading, cryptocurrencies, peer-to-peer lending, and more.",
-        "image_id": "IMG0072"
+        "image_id": "IMG0073"
     },
     {
         "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
@@ -800,7 +811,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Learn best practices for using TensorFlow, a popular open-source machine learning framework. Build a basic neural network in TensorFlow. Train a neural network for a computer vision application. Understand how to use convolutions to improve your neural network.",
-        "image_id": "IMG0073"
+        "image_id": "IMG0074"
     },
     {
         "name": "Convolutional Neural Networks in TensorFlow",
@@ -811,7 +822,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Handle real-world image data. Plot loss and accuracy. Explore strategies to prevent overfitting, including augmentation and dropout. Learn transfer learning and how learned features can be extracted from models.",
-        "image_id": "IMG0074"
+        "image_id": "IMG0075"
     },
     {
         "name": "Natural Language Processing in TensorFlow",
@@ -822,7 +833,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Build natural language processing systems using TensorFlow. Process text, including tokenization and representing sentences as vectors. Apply RNNs, GRUs, and LSTMs in TensorFlow. Train LSTMs on existing text to create original poetry and more.",
-        "image_id": "IMG0075"
+        "image_id": "IMG0076"
     },
     {
         "name": "Sequences, Time Series and Prediction",
@@ -833,7 +844,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Solve time series and forecasting problems in TensorFlow. Prepare data for time series learning using best practices. Explore how RNNs and ConvNets can be used for predictions. Build a sunspot prediction model using real-world data.",
-        "image_id": "IMG0076"
+        "image_id": "IMG0077"
     },
     {
         "name": "TensorFlow Developer",
@@ -844,7 +855,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for computer vision applications. Handle real-world image data and explore strategies to prevent overfitting, including augmentation and dropout. Build natural language processing systems using TensorFlow. Apply RNNs, GRUs, and LSTMs as you train them using text repositories.",
-        "image_id": "IMG0077"
+        "image_id": "IMG0078"
     },
     {
         "name": "Fundamentals of Scalable Data Science",
@@ -854,7 +865,8 @@
         "date": "2020-10-01",
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
-        "description": "The fundamentals of Apache Spark using python and pyspark. Introduction to Apache Spark with applications to basic exploratory and data pre-processing tasks. Fundamental statistical measures and data visualization technologies."
+        "description": "The fundamentals of Apache Spark using python and pyspark. Introduction to Apache Spark with applications to basic exploratory and data pre-processing tasks. Fundamental statistical measures and data visualization technologies.",
+        "image_id": "IMG0079"
     },
     {
         "name": "Advanced Machine Learning and Signal Processing",
@@ -865,7 +877,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Learn about the fundamentals of Linear Algebra to understand how machine learning modes work. Introduce the most popular Machine Learning Frameworks for python Scikit-Learn and SparkML. Learn how to tune the models in parallel by evaluating hundreds of different parameter-combinations in parallel. Use a real-life example from IoT (Internet of Things), for exemplifying the different algorithms.",
-        "image_id": "IMG0078"
+        "image_id": "IMG0080"
     },
     {
         "name": "Applied AI with DeepLearning",
@@ -876,7 +888,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Introduce the most popular DeepLearning Frameworks like Keras, TensorFlow, PyTorch, DeepLearning4J and Apache SystemML. Keras and TensorFlow make up the greatest portion of this course. Learn about Anomaly Detection, Time Series Forecasting, Image Recognition and Natural Language Processing by building up models using Keras on real-life examples from IoT (Internet of Things), Financial Marked Data, Literature or Image Databases. Learn how to scale those artificial brains using Kubernetes, Apache Spark and GPUs.",
-        "image_id": "IMG0079"
+        "image_id": "IMG0081"
     },
     {
         "name": "Advanced Data Science Capstone",
@@ -887,7 +899,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his knowledge in a real-world practical use case where he justifies architectural decisions, proves understanding the characteristics of different algorithms, frameworks and technologies and how they impact model performance and scalability.",
-        "image_id": "IMG0080"
+        "image_id": "IMG0082"
     },
     {
         "name": "Advanced Data Science",
@@ -898,7 +910,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Coursera",
         "description": "Proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his knowledge in a real-world practical use case where he justifies architectural decisions, proves understanding the characteristics of different algorithms, frameworks and technologies and how they impact model performance and scalability.",
-        "image_id": "IMG0081"
+        "image_id": "IMG0083"
     },
     {
         "name": "Introduction to Computer Science and Programming Using Python",
@@ -909,7 +921,7 @@
         "paid": "Yes",
         "provider": "EdX",
         "description": "Core elements of a programs, simple algorithms, functions, recursion, objects, debugging, assertions and exceptions, efficiency and orders of growth, memory and search.",
-        "image_id": "IMG0082"
+        "image_id": "IMG0084"
     },
     {
         "name": "Introduction to Computational Thinking and Data Science",
@@ -920,7 +932,7 @@
         "paid": "Yes",
         "provider": "EdX",
         "description": "Optimization and Knapsack Problem, decision trees and dynamic programming, graphs, plotting, stochastic thinking, random walks, inferential statistics, Monte Carlo simulations, experimental data, machine Learning, statistical Fallacies.",
-        "image_id": "IMG0083"
+        "image_id": "IMG0085"
     },
     {
         "name": "Using Python for Research",
@@ -931,7 +943,7 @@
         "paid": "Yes",
         "provider": "EdX",
         "description": "Review the basics of Python 3 programming. Learn how to use Python tools (e.g., the NumPy and SciPy modules) for research applications. Learn how to apply Python research tools in practical settings.",
-        "image_id": "IMG0084"
+        "image_id": "IMG0086"
     },
     {
         "name": "Using Python for Research",
@@ -942,7 +954,7 @@
         "paid": "Yes",
         "provider": "EdX",
         "description": "Static checking, code review, testing, specifications, designing Specifications, avoiding debugging, mutability and immutability, debugging, abstract data types, abstraction functions and rep invariants, interfaces, equality.",
-        "image_id": "IMG0085"
+        "image_id": "IMG00857"
     },
     {
         "name": "Master of Arts in Economics",
@@ -953,7 +965,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Georgetown University",
         "description": "'Completed the coursework for the Ph.D. in Economics from Georgetown University, took three Microeconomic theory courses (focused on General Equilibrium Theory, Game Theory, Industrial Organization, Contract Theory and Auction Theory) two Macroeconomic theory courses (focused on Economic Growth, Stochastic Dynamic General Equilibrium Modeling using Dynamic Programming, Asset Pricing, Search and Matching in the Labor Market, Overlapping Generations Models, Heterogeneous Agents Models and Dynamic Contract Theory), a Mathematical Statistics course, one course in Numerical Methods for Macroeconomics (simulating numerially all the models learned in the Macrocenomic Theory Courses), Econometrics I (Linear Regression Model using linear algebra, Gauss Markov theorem, hypothesis testing for linear regression  models, heteroscedasticity and autocorrelation (testing and adjusting when present), simultaneous equations models (identification, estimation with indirect least squares, two stage least squares, three stage least squares), Econometrics II (Asymptotic theory for regression: Convergence in Probability and in Distribution, weak and strong laws of large numbers, Lindeberg-Levy Central Limit Theoremm, Generalized Method of Momments Estimation, Panel Data, Maximum of Likelihood Estimation, Asymptotic Properties of Extremum Estimators), Political Economy (Public Choice Theory, Arrows Impossibility Theorem, Mechanism Design, Gibbard-Satterthwaite theorem, dominant strategy implementation, Nash Equilibrium and Bayesian Nash Equilibrium implementation, Incentive Compatibility, Revelation Principle, Voting Systems, Information theory).",
-        "image_id": "IMG0086"
+        "image_id": "IMG0088"
     },
     {
         "name": "Master of Science in Economics",
@@ -964,7 +976,7 @@
         "paid": "Recieved Financial Aid",
         "provider": "Univeristy of Lausanne",
         "description": "Specialiced in Macroeconomics and Finance (one extra course in Financial Theory and another in the Microeconomics of Banking). The course curriculum included two advanced macroeconomics courses and two advanced miacroeconomics courses, and three econometrics couses among others.",
-        "image_id": "IMG0087"
+        "image_id": "IMG0089"
     },
     {
         "name": "Bachelor of Social Science in Economics",
@@ -975,6 +987,6 @@
         "paid": "Yes",
         "provider": "Univeristy of Moncton",
         "description": "The degree included the normal curriculum on introductory courses in social sciences, two courses in statistics, courses in introductury micro and macroeconomics, one course in mathematical economics and another in econometrics and six courses in the mathematics department two in linear algebra and four in calculus.",
-        "image_id": "IMG0088"
+        "image_id": "IMG0090"
     }
 ]
